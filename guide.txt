@@ -1,0 +1,9 @@
+1. The program consists of 4 files. 
+2. The "demand.txt" file is to specify the demand of cities and can be edited. 
+3. The "map.txt" file is used to implement map in the program. It is supposed to not edit and if the time comes we can add cities through this file.
+4. The "solution.txt" file gives output. Each line shows the path and unloading data of one particular truck. The figure in a bracket alongside city is a drop of that particular city.
+5. Now "transportation.exe" is main file doing all computations.
+
+Steps to use:
+a. Go in "deamand.txt" to add a demand. Currently, there are only 17 cities in map. You add requirement in front of the city name. Now city name is case sensitive.
+b. After that just click on "transportation.exe" and outcome will be generated. 
